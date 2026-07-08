@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maheen Sawera</h1>
-<h3 align="center">Aspiring Cybersecurity Professional | Full Stack Developer | BSIT Final Year @ Punjab College (GCUF)</h3>
+<h3 align="center">BSIT Graduate | Cybersecurity & OffSec Enthusiast | Web Application Penetration Testing</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=500&lines=Cybersecurity+Enthusiast;Full+Stack+Developer;Next.js+%7C+React+%7C+Python;Open+to+Internships!" alt="Typing SVG" />
@@ -8,9 +8,9 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Final Year BSIT Student at **Punjab Group of Colleges (GCUF)**
+- 🎓 BSIT Graduate from Punjab Group of Colleges (GCUF)
 - 🔐 Passionate about **Cybersecurity** & Ethical Hacking
-- 🌐 Building **SENSAI** — an AI-powered career coaching platform
+- 🌐 Built SENSAI — an AI-powered career mentor platform
 - 🌱 Currently learning on **TryHackMe**
 - 📫 Reach me at: **maheensawera1040@gmail.com**
 - 💼 Open to: **Cybersecurity Internships & IT Roles**
@@ -34,9 +34,9 @@
 ---
 
 ### 📌 Featured Project
-#### 🤖 [SENSAI — AI Career Coach](https://github.com/maheensawera/sensai)
-> A full-stack AI-powered platform for resume building, mock interviews, and industry insights.
-> Built with Next.js · Gemini AI · PostgreSQL · Vercel
+#### 🤖 [SENSAI — AI Career Mentor](https://github.com/maheensawera/sensai)
+> A full-stack AI-powered career mentorship platform featuring an automated resume builder and an interactive interview preparation hub.
+> Built with Next.js, Gemini AI, PostgreSQL, Prisma, and Vercel.
 
 ---
 
